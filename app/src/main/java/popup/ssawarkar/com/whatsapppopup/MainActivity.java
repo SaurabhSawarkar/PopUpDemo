@@ -33,4 +33,5 @@ public class MainActivity extends AppCompatActivity {
         LinearLayout view = findViewById(R.id.activity_main);
         view.addView(layout);
     }
+    
 }
